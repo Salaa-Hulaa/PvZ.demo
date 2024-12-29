@@ -21,17 +21,18 @@
 3. 运行 `Plants vs Zombies.exe`
 
 ### 从源码运行
+（非常抱歉，我手滑把整个项目传上来了，所以只用git然后激活环境）
 
-1. 确保已安装 Python 3.8 或更高版本
+1. 确保已安装 Python 3.8 或更高版本（bushi）
 2. 克隆此仓库
 3. 创建并激活虚拟环境：
    ```bash
-   python -m venv venv
+   python -m venv venv ##不用，因为我已经有一个环境大礼包了
    venv\Scripts\activate
    ```
 4. 安装依赖：
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt ##不用，在lib里了
    ```
 5. 运行游戏：
    ```bash
