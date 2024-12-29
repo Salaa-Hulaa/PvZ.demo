@@ -45,6 +45,8 @@
 
 ### 游戏页
 ![图片](https://github.com/user-attachments/assets/229bfcae-8450-44f2-b31f-afd417fa64f0)
+![图片](https://github.com/user-attachments/assets/0b7ac487-a36b-43cd-8f40-56d54cc79df2)
+
 
 ## 游戏控制
 
