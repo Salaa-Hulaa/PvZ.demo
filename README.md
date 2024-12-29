@@ -38,6 +38,13 @@
    ```bash
    python main.py
    ```
+## 游戏页面
+
+### 启动页
+![图片](https://github.com/user-attachments/assets/59b31bac-33eb-4c4a-9b0e-ff4e25aed6fc)
+
+### 游戏页
+![图片](https://github.com/user-attachments/assets/229bfcae-8450-44f2-b31f-afd417fa64f0)
 
 ## 游戏控制
 
