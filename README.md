@@ -182,18 +182,7 @@ sound_files = {
 }
 ```
 
-### 调试技巧
 
-1. 使用 `settings.py` 中的 DEBUG 模式：
-```python
-DEBUG = True  # 启用调试模式
-```
-
-2. 添加调试信息：
-```python
-if DEBUG:
-    print(f"Plant position: {self.rect.x}, {self.rect.y}")
-    print(f"Current health: {self.health}")
 ```
 
 ## 构建说明
@@ -206,22 +195,12 @@ python build.py
 
 生成的可执行文件将在 `dist` 目录中。
 
-## 注意事项
 
-- 游戏需要一定的系统资源，建议在性能较好的设备上运行
-- 确保声音文件和图片资源完整
-- 如果遇到音效问题，请检查系统音频设置
-- 开发新功能时，建议先在测试环境中验证
 
 ## 贡献
 
-欢迎提交 Issue 和 Pull Request！在提交代码前，请确保：
-
-1. 代码符合 PEP 8 规范
-2. 添加了必要的注释
-3. 更新了相关文档
-4. 测试了新功能
+欢迎提交fork
 
 ## 许可
 
-此项目仅用于学习和研究目的。所有游戏素材的版权归原始游戏开发者所有。
+还没选
