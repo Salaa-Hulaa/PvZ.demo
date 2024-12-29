@@ -1,0 +1,4 @@
+pygame==2.6.1
+numpy==2.2.1
+pillow==11.0.0
+pyinstaller==6.11.1
